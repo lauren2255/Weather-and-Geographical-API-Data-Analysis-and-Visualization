@@ -1,6 +1,6 @@
 # python-api-challenge
 
-Weather and geographical data was cleaned and visualized according to the following guidelines:
+Weather and geographical data was analyzed using linear regression and visualized using hvplot and matplotlib according to the following guidelines:
 
 # Guidelines
 
