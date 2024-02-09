@@ -1,4 +1,4 @@
-# python-api-challenge
+# Weather and Geographical API Data Analysis and Visualization
 
 Weather and geographical data was analyzed using linear regression and visualized using hvplot and matplotlib according to the following guidelines:
 
